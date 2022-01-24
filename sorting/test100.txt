@@ -1,0 +1,28 @@
+{
+  "data": {
+    "type": "post",
+    "attributes": {
+      "postingType": "DEFAULT",
+      "state": "ACTIVE",
+      "text": "Hello Bello",
+      "resource":{ 
+                "contentType": "FILE", 
+                "data": "https://cp-s3-stage-us-east-1-user-upload.s3.amazonaws.com/resources/source/3599/37362e5b3dde4a3285838a996cc9fba4/test666.jpg?uploadId=slXxSS2Nw1NA4.vYDzurZfbgQVq7mbJUULElVs26YdoSG70tfIA2wguUHn9u3EjI78_o5LQAZN6n5XXvKBHH2euEWxSlpGl5Bkki2Aqwi0lb2aO4FYpwkjx9b1xtTpZE"
+             }
+    },
+    "relationships": {
+      "createdBy": {
+        "data": {
+          "id": "7423110",
+          "type": "user"
+        }
+      },
+      "parent": {
+        "data": {
+          "id": "2248",
+          "type": "board"
+        }
+      }
+    }
+  }
+}
